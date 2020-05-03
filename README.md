@@ -1,14 +1,12 @@
-![](icon_resized.png)
-### You Scrolled App
+![](icon_resized.png){:width="100px"}
 
+### You Scrolled App
 We scroll *a LOT* nowadays. Your fingers do a lot of travelling, and yes, it's hard work. 
 **You scrolled** helps you  quantify the distance your poor fingers travel. Move your finger
-on the screen and watch as the distance it's travelled is shown on the screen. Thanks to NMR for the idea!
-
-The app was made possible by the [Kivy](https://kivy.org/#home) framework! 
+on the screen and watch as the distance it's travelled is shown on the screen. Thanks to NMR for the idea! The app was made using the [Kivy](https://kivy.org/#home) framework! 
 
 #### Installation
-* Go to the ```bin/``` folder and download the .apk file using your Android phone 
+* Go to ```view code``` and then the ```bin/``` folder and download the .apk file using your Android phone 
 * You will need to enable installation from unknown sources. Check [here](https://developer.android.com/studio/publish#unknown-sources) 
 * If the instructions in the link above don't seem to match with what's on your phone, [Google]() up the instructions for your particular model.
 
