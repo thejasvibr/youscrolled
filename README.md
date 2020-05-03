@@ -1,4 +1,4 @@
-![](icon_resized.png){:width="100px"}
+<img src="icon_resized.png" height="100">
 
 ### You Scrolled App
 We scroll *a LOT* nowadays. Your fingers do a lot of travelling, and yes, it's hard work. 
