@@ -22,7 +22,7 @@ class YouScrolled(Widget):
 
 class YouScrolledApp(App):
     def build(self): 
-		self.icon = 'icon.jpg'
+        self.icon = 'icon_resized.png'
         return YouScrolled() 
 
 if __name__ == '__main__':
